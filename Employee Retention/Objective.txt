@@ -1,0 +1,2 @@
+Objective:
+The purpose of this data analysis project is to investigate the observed high employee attrition at a motor manufacturing company. The Human Resource team has conducted a comprehensive survey, gathering data from both current and former employees. As a Data Analyst, my task is to analyze this data meticulously and extract valuable insights. These insights will serve as a basis for enhancing existing strategies, improving working conditions for current employees, and refining the recruitment and training processes for new employees.
